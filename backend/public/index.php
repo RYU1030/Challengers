@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Challengers</title>
     <link rel="stylesheet" href="./css/top.css" text="text/css">
+    <link rel="stylesheet" href="./css/reset.css" text="text/css">
 </head>
 <body>
     <header>
